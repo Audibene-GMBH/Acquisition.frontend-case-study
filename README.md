@@ -27,6 +27,7 @@ Good luck
 
 ### Please use:
 -	Modern HTML, CSS and javascript to create the landing page.
+-	We do not use libraries when building landing pages.
 -	Page should be IE 11-safe.
 
 ### Submission
